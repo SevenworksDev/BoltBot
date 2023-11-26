@@ -1,0 +1,21 @@
+@fun
+yomama->https>api.autoworks.repl.co/api/yoMama.php
+kanyequote->https>api.autoworks.repl.co/api/kanyequote.php
+dadjoke->https>api.autoworks.repl.co/api/dadjoke.php
+catfact->https>api.autoworks.repl.co/api/catfact.php
+getalife->https>api.autoworks.repl.co/api/getalife.php
+numberfact->http>numbersapi.com/random
+@gd
+stats->#user# has #stars# stars, #diamonds# diamonds, #coins (UC: #userCoins#) coins, #demons# demons and #creatorPoints# creator points.
+rank->#user# is at rank #rank#
+ids->#user# AccountID: #accountID# / #user# PlayerID: #playerID#
+@botstats
+commandcount->Command Count: #commandCount#
+system->Bot Host: #os#
+python->Version: #pythonVersion#
+cbf->Sevenworks CBF Version: v1.2  |  sevenworks.eu.org/cbf
+currentlevel->Level ID: #levelID#
+currentuser->Bot Username: #botUsername:
+@other
+hello->Hello #user#!
+bye->Bye #user#
